@@ -7,7 +7,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
-        "vendor-dir": "system/vendor"
+        "vendor-dir": "vendor"
     },
     "authors": [
         {
